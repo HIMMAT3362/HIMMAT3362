@@ -1,5 +1,4 @@
 - 👋 Hi, I’m HIMMAT SINGH CHOUHAN
-- 👀 I’m interested in web development
 - 🌱 I’m currently learning fornt-end and backend web development 
 - - 💞️ I’m looking to collaborate on web development 
 - 📫 How to reach me ...you can mail me to: vikkaychouhan977@gmail.com  also you can contact on 7726015790
